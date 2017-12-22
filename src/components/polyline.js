@@ -87,7 +87,8 @@ export default {
         };
       }
     }, {
-      deep: this.deepWatch
+      deep: this.deepWatch,
+      immediate: true
     });
 
     // Display the map
