@@ -1,5 +1,5 @@
 {
-  "name": "vue2-google-maps",
+  "name": "vue2-google-maps-agr",
   "version": "0.8.4",
   "description": "This is a google map component for Vue.js, updated for Vue 2 compatibility",
   "main": "dist/main.js",
@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xkjyeah/vue-google-maps.git"
+    "url": "git+https://github.com/allamgr/vue-google-maps"
   },
   "bugs": {
-    "url": "https://github.com/xkjyeah/vue-google-maps/issues"
+    "url": "https://github.com/allamgr/vue-google-maps/issues"
   },
-  "homepage": "https://github.com/xkjyeah/vue-google-maps#readme",
+  "homepage": "https://github.com/allamgr/vue-google-maps#readme",
   "dependencies": {
     "babel-plugin-lodash": "^3.2.11",
     "babel-plugin-transform-runtime": "^6.15.0",
@@ -82,6 +82,6 @@
       "vueify"
     ]
   },
-  "author": "Daniel Sim, Guillaume Leclerc",
+  "author": "Allam Galan Rosa",
   "license": "MIT"
 }
